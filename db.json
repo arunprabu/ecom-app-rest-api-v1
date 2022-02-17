@@ -190,6 +190,17 @@
     }
   ],
   "cartItems": [
-
+    {
+      "productId": 123,
+      "quantity": 1,
+      "price": 123233,
+      "thumbnail": ""
+    },
+    {
+      "productId": 76,
+      "quantity": 2,
+      "price": 2232,
+      "thumbnail": ""
+    }
   ]
 }
