@@ -3,6 +3,11 @@
     {
       "id": 1,
       "imageUrl": "./assets/images/apple.webp",
+      "thumbnails": [
+        "https://placehold.jp/80x80.png", 
+        "https://placehold.jp/3d4070/ffffff/80x80.png",
+        "https://placehold.jp/11ff00/1f1f1f/80x80.png"
+      ],
       "productName": "Apple-iPhone-13-pro-smartphone",
       "productDescription": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.\n      Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.",
       "price": 84900,
