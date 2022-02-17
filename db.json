@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "imageUrl": "./assets/images/apple.webp",
+      "imageUrl": "https://placehold.jp/3e5acc/fafafa/400x400.png?text=Apple-iPhone-13-pro",
       "thumbnails": [
         "https://placehold.jp/80x80.png", 
         "https://placehold.jp/3d4070/ffffff/80x80.png",
