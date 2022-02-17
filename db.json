@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "./assets/images/apple.webp",
+      "productName": "Apple-iPhone-13-pro-smartphone",
+      "productDescription": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.\n      Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.",
+      "price": 84900,
+      "categoryId": 1,
+      "discountApplicable": 14,
+      "discountPrice": 73014,
+      "added": "4/9/2021",
+      "quantity": 0,
+      "bestSellerRanking": 2,
+      "featured": true
+    },
+    {
+      "id": 2,
+      "imageUrl": "./assets/images/galaxy.webp",
+      "productName": "Samsung Galaxys S21 FE 5G",
+      "productDescription": "Samsung Galaxy S21 5G supports frequency bands GSM , CDMA , HSPA , EVDO , LTE , 5G. Official\n      announcement date is January 14 2021.",
+      "price": 54600,
+      "categoryId": 1,
+      "discountApplicable": 10,
+      "discountPrice": 49140,
+      "added": "9/2/2021",
+      "quantity": 0,
+      "bestSellerRanking": 4,
+      "featured": true
+    },
+    {
+      "id": 3,
+      "imageUrl": "./assets/images/realme.webp",
+      "productName": "Realme-8-Pro, Infinite Black Smartphone",
+      "productDescription": "The realme 8 Pro is just 8.1mm thin and weighs 176g.\n      Plus, our anti-glare crystal process finish makes it feel extra comfortable in your hand.",
+      "price": 17999,
+      "categoryId": 1,
+      "discountApplicable": 15,
+      "discountPrice": 15299,
+      "added": "4/12/2021",
+      "quantity": 0,
+      "bestSellerRanking": 5,
+      "featured": false
+    },
+    {
+      "id": 4,
+      "imageUrl": "./assets/images/appleMac.webp",
+      "productName": "Apple MacBook Pro 14 M1",
+      "productDescription": "The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip\n      — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery\n      life.",
+      "price": 151990,
+      "categoryId": 2,
+      "discountApplicable": 35,
+      "discountPrice": 95990,
+      "added": "12/2/2021",
+      "quantity": 0,
+      "bestSellerRanking": 1,
+      "featured": true
+    },
+    {
+      "id": 5,
+      "imageUrl": "./assets/images/hp.webp",
+      "productName": "HP 15 AMD RYZEN 3",
+      "productDescription": " Processor: 5th Gen AMD Ryzen 5 5600H (up to 4.2 GHz max boost clock, 16 MB L3 cache, 6 cores).\n      Memory: 8 GB DDR4-3200 (1 x 8 GB), upgradable upto 32 GB. Storage: 512 GB PCIe NVMe M.2 SSD, HDD\n      slot available for SSD upgrade.",
+      "price": 66999,
+      "categoryId": 2,
+      "discountApplicable": 17,
+      "discountPrice": 55610,
+      "added": "8/7/2021",
+      "quantity": 0,
+      "bestSellerRanking": 8,
+      "featured": true
+    },
+    {
+      "id": 6,
+      "imageUrl": "./assets/images/lenovo.webp",
+      "productName": "lenovo-laptop-thinkpad-x1-nano-13-superseries",
+      "productDescription": "With a starting weight of less than one kilogram / two pounds, the ThinkPad X1 Nano laptop is our lightest ThinkPad ever. Yet it’s a heavyweight performer. Packed with 11th Gen Intel vPro power, this 13 inch laptop features a choice of Windows 10 or Linux operating systems.",
+      "price": 147537,
+      "categoryId": 2,
+      "discountApplicable": 45,
+      "discountPrice": 81138,
+      "added": "4/9/2021",
+      "quantity": 0,
+      "bestSellerRanking": 7,
+      "featured": false
+    },
+    {
+      "id": 7,
+      "imageUrl": "./assets/images/appleIpad.webp",
+      "productName": "Apple iPad Pro",
+      "productDescription": "The iPad Mini (branded and marketed as iPad mini) is a line of mini tablet computers designed, developed, and marketed by Apple Inc. It is a sub-series of the iPad line of tablets, with screen sizes of 7.9 inches and 8.3 inches.",
+      "price": 107900,
+      "categoryId": 3,
+      "discountApplicable": 27,
+      "discountPrice": 78767,
+      "added": "8/9/2021",
+      "quantity": 0,
+      "bestSellerRanking": 3,
+      "featured": true
+    },
+    {
+      "id": 8,
+      "imageUrl": "./assets/images/samsungTab.webp",
+      "productName": "Samsung-Galaxy-Tab-S7-Plus",
+      "productDescription": "Meet Galaxy Tab S7+. Work and play on the ultra smooth 120Hz display, powered by our most powerful chipset. Get a PC-like experience with the snap of a keyboard, or use the ultra low latency S Pen to write like never before.",
+      "price": 110275,
+      "categoryId": 3,
+      "discountApplicable": 35,
+      "discountPrice": 71679,
+      "added": "8/4/2021",
+      "quantity": 0,
+      "bestSellerRanking": 12,
+      "featured": true
+    },
+    {
+      "id": 9,
+      "imageUrl": "./assets/images/lenovoTab.webp",
+      "productName": "Lenovo Tab P11 Pro",
+      "productDescription": "From entertaining the kids to creating key presentations, the Tab 4 10 is ideal for the whole family.",
+      "price": 29999,
+      "categoryId": 3,
+      "discountApplicable": 15,
+      "discountPrice": 25499,
+      "added": "12/2/2021",
+      "quantity": 0,
+      "bestSellerRanking": 14,
+      "featured": false
+    },
+    {
+      "id": 10,
+      "imageUrl": "./assets/images/SamsungGalaxyZFlipe5G",
+      "productName": "Samsung Galaxy Z Flipe 5G",
+      "productDescription": "The Samsung Galaxy Z Flip is an Android-based foldable smartphone developed by Samsung Electronics as part of the Samsung Galaxy Z series.",
+      "price": 88450,
+      "categoryId": 1,
+      "discountApplicable": 10,
+      "discountPrice": 79605,
+      "added": "10/2/2021",
+      "quantity": 0,
+      "bestSellerRanking": 11,
+      "featured": true
+    },
+    {
+      "id": 11,
+      "imageUrl": "./assets/images/IdeapadSlim5i",
+      "productName": "Ideapad Slim 5i",
+      "productDescription": "IdeaPad is a line of consumer-oriented laptop computers designed, developed and marketed by Lenovo.",
+      "price": 66799,
+      "categoryId": 2,
+      "discountApplicable": 15,
+      "discountPrice": 56780,
+      "added": "10/3/2021",
+      "quantity": 0,
+      "bestSellerRanking": 15,
+      "featured": false
+    },
+    {
+      "id": 12,
+      "imageUrl": " ./assets/images/AsusVivoBook15",
+      "productName": "Asus VivoBook 15 Core13",
+      "productDescription": "The Asus VivoBook E Series is the successor to the EeeBook and Eee PC lineup of computers.",
+      "price": 55620,
+      "categoryId": 2,
+      "discountApplicable": 20,
+      "discountPrice": 44496,
+      "added": "2/5/2021",
+      "quantity": 0,
+      "bestSellerRanking": 16,
+      "featured": false
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "products": [1, 4, 5]
+    },
+    {
+      "id": 2,
+      "products": [4, 12]
+    }
+  ],
+  "cartItems": [
+
+  ]
+}
