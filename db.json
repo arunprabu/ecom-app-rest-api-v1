@@ -2,20 +2,35 @@
   "products": [
     {
       "id": 1,
-      "imageUrl": "https://placehold.jp/3e5acc/fafafa/400x400.png?text=Apple-iPhone-13-pro",
-      "thumbnails": [
-        "https://placehold.jp/80x80.png", 
-        "https://placehold.jp/3d4070/ffffff/80x80.png",
-        "https://placehold.jp/11ff00/1f1f1f/80x80.png"
+      "imageURLs": [
+        {
+          "url": "https://placehold.jp/600x600.png",
+          "thumbnail": "https://placehold.jp/150x150.png",
+          "altText": "Macbook pro front view"
+        },
+        {
+          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro",
+          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro",
+          "altText": "Macbook pro top angle"
+        },
+        {
+          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro-Updated",
+          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro-Updated",
+          "altText": "Macbook pro top angle"
+        },
+        {
+          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro-New",
+          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro-New",
+          "altText": "Macbook pro top angle"
+        }
       ],
       "productName": "Apple-iPhone-13-pro-smartphone",
       "productDescription": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.\n      Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.",
       "price": 84900,
       "categoryId": 1,
       "discountApplicable": 14,
-      "discountPrice": 73014,
       "added": "4/9/2021",
-      "quantity": 0,
+      "quantity": 30,
       "bestSellerRanking": 2,
       "featured": true
     },
@@ -32,9 +47,8 @@
       "price": 54600,
       "categoryId": 1,
       "discountApplicable": 10,
-      "discountPrice": 49140,
       "added": "9/2/2021",
-      "quantity": 0,
+      "quantity": 20,
       "bestSellerRanking": 4,
       "featured": true
     },
@@ -192,12 +206,14 @@
   "cartItems": [
     {
       "productId": 123,
+      "productName": "Apple MacBook Pro 14 M1",
       "quantity": 1,
       "price": 123233,
       "thumbnail": ""
     },
     {
       "productId": 76,
+      "productName": "Samsung",
       "quantity": 2,
       "price": 2232,
       "thumbnail": ""
