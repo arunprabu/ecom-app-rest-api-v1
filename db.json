@@ -218,5 +218,35 @@
       "price": 2232,
       "thumbnail": ""
     }
+  ],
+  "categories": [
+    {
+      "id": 1, 
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "id": 101,
+          "name": "Smartphones"
+        },
+        {
+          "id": 102,
+          "name": "Laptops"
+        }
+      ]
+    },
+    {
+      "id": 2, 
+      "name": "Books",
+      "subcategories": [
+        {
+          "id": 111,
+          "name": "Novels"
+        },
+        {
+          "id": 112,
+          "name": "Self-Help"
+        }
+      ]
+    }
   ]
 }
