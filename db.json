@@ -1,40 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "imageURLs": [
-        {
-          "url": "https://placehold.jp/600x600.png",
-          "thumbnail": "https://placehold.jp/150x150.png",
-          "altText": "Macbook pro front view"
-        },
-        {
-          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro",
-          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro",
-          "altText": "Macbook pro top angle"
-        },
-        {
-          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro-Updated",
-          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro-Updated",
-          "altText": "Macbook pro top angle"
-        },
-        {
-          "url": "https://placehold.jp/3d4070/ffffff/600x600.png?text=Macbook%20Pro-New",
-          "thumbnail": "https://placehold.jp/3d4070/ffffff/150x150.png?text=Macbook%20Pro-New",
-          "altText": "Macbook pro top angle"
-        }
-      ],
-      "productName": "Apple-iPhone-13-pro-smartphone",
-      "productDescription": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.\n      Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.",
-      "price": 84900,
-      "categoryId": 1,
-      "discountApplicable": 14,
-      "added": "4/9/2021",
-      "quantity": 30,
-      "bestSellerRanking": 2,
-      "featured": true
-    },
-      {
     "id": 1,
     "imageURLs": [
       {
@@ -79,146 +45,501 @@
     "bestSellerRanking": 2,
     "featured": true
   },
-    {
-      "id": 3,
-      "imageUrl": "./assets/images/realme.webp",
-      "productName": "Realme-8-Pro, Infinite Black Smartphone",
-      "productDescription": "The realme 8 Pro is just 8.1mm thin and weighs 176g.\n      Plus, our anti-glare crystal process finish makes it feel extra comfortable in your hand.",
-      "price": 17999,
-      "categoryId": 1,
-      "discountApplicable": 15,
-      "discountPrice": 15299,
-      "added": "4/12/2021",
-      "quantity": 0,
-      "bestSellerRanking": 5,
-      "featured": false
-    },
-    {
-      "id": 4,
-      "imageUrl": "./assets/images/appleMac.webp",
-      "productName": "Apple MacBook Pro 14 M1",
-      "productDescription": "The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip\n      — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery\n      life.",
-      "price": 151990,
-      "categoryId": 2,
-      "discountApplicable": 35,
-      "discountPrice": 95990,
-      "added": "12/2/2021",
-      "quantity": 0,
-      "bestSellerRanking": 1,
-      "featured": true
-    },
-    {
-      "id": 5,
-      "imageUrl": "./assets/images/hp.webp",
-      "productName": "HP 15 AMD RYZEN 3",
-      "productDescription": " Processor: 5th Gen AMD Ryzen 5 5600H (up to 4.2 GHz max boost clock, 16 MB L3 cache, 6 cores).\n      Memory: 8 GB DDR4-3200 (1 x 8 GB), upgradable upto 32 GB. Storage: 512 GB PCIe NVMe M.2 SSD, HDD\n      slot available for SSD upgrade.",
-      "price": 66999,
-      "categoryId": 2,
-      "discountApplicable": 17,
-      "discountPrice": 55610,
-      "added": "8/7/2021",
-      "quantity": 0,
-      "bestSellerRanking": 8,
-      "featured": true
-    },
-    {
-      "id": 6,
-      "imageUrl": "./assets/images/lenovo.webp",
-      "productName": "lenovo-laptop-thinkpad-x1-nano-13-superseries",
-      "productDescription": "With a starting weight of less than one kilogram / two pounds, the ThinkPad X1 Nano laptop is our lightest ThinkPad ever. Yet it’s a heavyweight performer. Packed with 11th Gen Intel vPro power, this 13 inch laptop features a choice of Windows 10 or Linux operating systems.",
-      "price": 147537,
-      "categoryId": 2,
-      "discountApplicable": 45,
-      "discountPrice": 81138,
-      "added": "4/9/2021",
-      "quantity": 0,
-      "bestSellerRanking": 7,
-      "featured": false
-    },
-    {
-      "id": 7,
-      "imageUrl": "./assets/images/appleIpad.webp",
-      "productName": "Apple iPad Pro ",
-      "productDescription": "The iPad pro (branded and marketed as iPad mini) is a line of mini tablet computers designed, developed, and marketed by Apple Inc. It is a sub-series of the iPad line of tablets, with screen sizes of 7.9 inches and 8.3 inches.",
-      "price": 107900,
-      "categoryId": 3,
-      "discountApplicable": 27,
-      "discountPrice": 78767,
-      "added": "8/9/2021",
-      "quantity": 0,
-      "bestSellerRanking": 3,
-      "featured": true
-    },
-    {
-      "id": 8,
-      "imageUrl": "./assets/images/samsungTab.webp",
-      "productName": "Samsung-Galaxy-Tab-S7-Plus",
-      "productDescription": "Meet Galaxy Tab S7+. Work and play on the ultra smooth 120Hz display, powered by our most powerful chipset. Get a PC-like experience with the snap of a keyboard, or use the ultra low latency S Pen to write like never before.",
-      "price": 110275,
-      "categoryId": 3,
-      "discountApplicable": 35,
-      "discountPrice": 71679,
-      "added": "8/4/2021",
-      "quantity": 0,
-      "bestSellerRanking": 12,
-      "featured": true
-    },
-    {
-      "id": 9,
-      "imageUrl": "./assets/images/lenovoTab.webp",
-      "productName": "Lenovo Tab P11 Pro",
-      "productDescription": "From entertaining the kids to creating key presentations, the Tab 4 10 is ideal for the whole family.",
-      "price": 29999,
-      "categoryId": 3,
-      "discountApplicable": 15,
-      "discountPrice": 25499,
-      "added": "12/2/2021",
-      "quantity": 0,
-      "bestSellerRanking": 14,
-      "featured": false
-    },
-    {
-      "id": 10,
-      "imageUrl": "./assets/images/SamsungGalaxyZFlipe5G",
-      "productName": "Samsung Galaxy Z Flipe 5G",
-      "productDescription": "The Samsung Galaxy Z Flip is an Android-based foldable smartphone developed by Samsung Electronics as part of the Samsung Galaxy Z series.",
-      "price": 88450,
-      "categoryId": 1,
-      "discountApplicable": 10,
-      "discountPrice": 79605,
-      "added": "10/2/2021",
-      "quantity": 0,
-      "bestSellerRanking": 11,
-      "featured": true
-    },
-    {
-      "id": 11,
-      "imageUrl": "./assets/images/IdeapadSlim5i",
-      "productName": "Ideapad Slim 5i",
-      "productDescription": "IdeaPad is a line of consumer-oriented laptop computers designed, developed and marketed by Lenovo.",
-      "price": 66799,
-      "categoryId": 2,
-      "discountApplicable": 15,
-      "discountPrice": 56780,
-      "added": "10/3/2021",
-      "quantity": 0,
-      "bestSellerRanking": 15,
-      "featured": false
-    },
-    {
-      "id": 12,
-      "imageUrl": " ./assets/images/AsusVivoBook15",
-      "productName": "Asus chromebook 15 Core13",
-      "productDescription": "The Asus VivoBook E Series is the successor to the EeeBook and Eee PC lineup of computers.",
-      "price": 55620,
-      "categoryId": 2,
-      "discountApplicable": 20,
-      "discountPrice": 44496,
-      "added": "2/5/2021",
-      "quantity": 0,
-      "bestSellerRanking": 16,
-      "featured": false
-    }
+  {
+    "id": 2,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20S21%20%0A%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20S21%20%0A%0A",
+          "altText": "Samsung Galaxy S21"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20S21%20first%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20S21%20first%20angle%0A",
+          "altText": "Samsung Galaxy S21 first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20S21%20second%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20S21%20second%20angle%0A",
+          "altText": "Samsung Galaxy S21 second angle angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20S21%20third%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20S21%20third%20angle%0A",
+          "altText": "Samsung Galaxy S21 third angle"
+        }
+      ],
+    "productName": "Samsung Galaxys S21 FE 5G",
+    "productDescription": "Samsung Galaxy S21 5G supports frequency bands GSM , CDMA , HSPA , EVDO , LTE , 5G. Official\n      announcement date is January 14 2021.",
+    "price": 54600,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "SmartPhones"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 10,
+    "added": "9/2/2021",
+    "quantity": 20,
+    "bestSellerRanking": 4,
+    "featured": true
+  },
+  {
+    "id": 3,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Realme%208%20pro%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Realme%208%20pro%0A",
+          "altText": "Realme 8 pro"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Realme%208%20pro%20first%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Realme%208%20pro%20first%20angle%0A",
+          "altText": "Realme 8 pro first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Realme%208%20pro%20second%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Realme%208%20pro%20second%20angle%0A",
+          "altText": "Realme 8 pro second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Realme%208%20pro%20third%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Realme%208%20pro%20third%20angle%0A",
+          "altText": "Realme 8 pro third angle"
+        }
+      ],
+    "productName": "Realme-8-Pro, Infinite Black Smartphone",
+    "productDescription": "The realme 8 Pro is just 8.1mm thin and weighs 176g.\n      Plus, our anti-glare crystal process finish makes it feel extra comfortable in your hand.",
+    "price": 17999,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "SmartPhones"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 15,
+    "added": "4/12/2021",
+    "quantity": 35,
+    "bestSellerRanking": 5,
+    "featured": false
+  },
+  {
+    "id": 4,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Macbook%20Pro%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Macbook%20Pro%0A",
+          "altText": "Apple Macbook Pro"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Macbook%20Pro%20first%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Macbook%20Pro%20first%20angle%0A",
+          "altText": "Macbook pro first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Macbook%20Pro%20second%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Macbook%20Pro%20second%20angle%0A",
+          "altText": "Macbook pro second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Macbook%20Pro%20third%20angle%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Macbook%20Pro%20third%20angle%0A",
+          "altText": "Macbook pro third angle"
+        }
+      ],
+    "productName": "Apple MacBook Pro 14 M1",
+    "productDescription": "The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip\n      — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery\n      life.",
+    "price": 151990,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 102,
+                    "name": "Laptop"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 35,
+    "added": "12/2/2021",
+    "quantity": 40,
+    "bestSellerRanking": 1,
+    "featured": true
+  },
+  {
+    "id": 5,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=HP%2015%20AMD%20RYZEN%0A",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=HP%2015%20AMD%20RYZEN%0A",
+          "altText": "HP 15 AMD RYZEN"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=HP%2015%20AMD%20RYZEN%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=HP%2015%20AMD%20RYZEN%20first%20angle",
+          "altText": "HP 15 AMD RYZEN first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=HP%2015%20AMD%20RYZEN%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=HP%2015%20AMD%20RYZEN%20second%20angle",
+          "altText": "HP 15 AMD RYZEN second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=HP%2015%20AMD%20RYZEN%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=HP%2015%20AMD%20RYZEN%20third%20angle",
+          "altText": "HP 15 AMD RYZEN third angle"
+        }
+      ],
+    "productName": "HP 15 AMD RYZEN 3",
+    "productDescription": " Processor: 5th Gen AMD Ryzen 5 5600H (up to 4.2 GHz max boost clock, 16 MB L3 cache, 6 cores).\n      Memory: 8 GB DDR4-3200 (1 x 8 GB), upgradable upto 32 GB. Storage: 512 GB PCIe NVMe M.2 SSD, HDD\n      slot available for SSD upgrade.",
+    "price": 66999,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 102,
+                    "name": "Laptop"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 17,
+    "added": "8/7/2021",
+    "quantity": 45,
+    "bestSellerRanking": 8,
+    "featured": true
+  },
+  {
+    "id": 6,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=lenovo-laptop-thinkpad",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=lenovo-laptop-thinkpad",
+          "altText": "lenovo-laptop-thinkpad"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=lenovo-laptop-thinkpad%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=lenovo-laptop-thinkpad%20first%20angle",
+          "altText": "lenovo-laptop-thinkpad first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=lenovo-laptop-thinkpad%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=lenovo-laptop-thinkpad%20second%20angle",
+          "altText": "lenovo-laptop-thinkpad second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=lenovo-laptop-thinkpad%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=lenovo-laptop-thinkpad%20third%20angle",
+          "altText": "lenovo-laptop-thinkpad third angle"
+        }
+      ],
+    "productName": "lenovo-laptop-thinkpad-x1-nano-13-superseries",
+    "productDescription": "With a starting weight of less than one kilogram / two pounds, the ThinkPad X1 Nano laptop is our lightest ThinkPad ever. Yet it’s a heavyweight performer. Packed with 11th Gen Intel vPro power, this 13 inch laptop features a choice of Windows 10 or Linux operating systems.",
+    "price": 147537,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 102,
+                    "name": "Laptop"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 45,
+    "added": "4/9/2021",
+    "quantity": 50,
+    "bestSellerRanking": 7,
+    "featured": false
+  },
+  {
+    "id": 7,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20iPad%20Pro",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20iPad%20Pro",
+          "altText": "Apple iPad Pro"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20iPad%20Pro%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20iPad%20Pro%20first%20angle",
+          "altText": "Apple iPad Pro first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20iPad%20Pro%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20iPad%20Pro%20second%20angle",
+          "altText": "Apple iPad Pro second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20iPad%20Pro%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20iPad%20Pro%20third%20angle",
+          "altText": "Apple iPad Pro third angle"
+        }
+      ],
+    "productName": "Apple iPad Pro ",
+    "productDescription": "The iPad pro (branded and marketed as iPad mini) is a line of mini tablet computers designed, developed, and marketed by Apple Inc. It is a sub-series of the iPad line of tablets, with screen sizes of 7.9 inches and 8.3 inches.",
+    "price": 107900,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 103,
+                    "name": "Tablet"
+            }
+            ]
+        }
+    ],
+    "discountApplicable": 27,
+    "added": "8/9/2021",
+    "quantity": 30,
+    "bestSellerRanking": 3,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung-Galaxy-Tab-S7",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung-Galaxy-Tab-S7",
+          "altText": "Samsung-Galaxy-Tab-S7"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung-Galaxy-Tab-S7%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung-Galaxy-Tab-S7%20first%20angle",
+          "altText": "Samsung-Galaxy-Tab-S7 first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung-Galaxy-Tab-S7%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung-Galaxy-Tab-S7%20second%20angle",
+          "altText": "Samsung-Galaxy-Tab-S7 second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung-Galaxy-Tab-S7%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung-Galaxy-Tab-S7%20third%20angle",
+          "altText": "Samsung-Galaxy-Tab-S7 third angle"
+        }
+      ],
+    "productName": "Samsung-Galaxy-Tab-S7-Plus",
+    "productDescription": "Meet Galaxy Tab S7+. Work and play on the ultra smooth 120Hz display, powered by our most powerful chipset. Get a PC-like experience with the snap of a keyboard, or use the ultra low latency S Pen to write like never before.",
+    "price": 110275,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 103,
+                    "name": "Tablets"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 35,
+    "added": "8/4/2021",
+    "quantity": 35,
+    "bestSellerRanking": 12,
+    "featured": true
+  },
+  {
+    "id": 9,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Lenovo%20Tab%20P11%20Pro",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Lenovo%20Tab%20P11%20Pro",
+          "altText": "Lenovo Tab P11 Pro"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Lenovo%20Tab%20P11%20Pro%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Lenovo%20Tab%20P11%20Pro%20first%20angle",
+          "altText": "Lenovo Tab P11 Pro first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Lenovo%20Tab%20P11%20Pro%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Lenovo%20Tab%20P11%20Pro%20second%20angle",
+          "altText": "Lenovo Tab P11 Pro second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Lenovo%20Tab%20P11%20Pro%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Lenovo%20Tab%20P11%20Pro%20third%20angle",
+          "altText": "Lenovo Tab P11 Pro third angle"
+        }
+      ],
+    "productName": "Lenovo Tab P11 Pro",
+    "productDescription": "From entertaining the kids to creating key presentations, the Tab 4 10 is ideal for the whole family.",
+    "price": 29999,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 103,
+                    "name": "Tablets"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 15,
+    "added": "12/2/2021",
+    "quantity": 40,
+    "bestSellerRanking": 14,
+    "featured": false
+  },
+  {
+    "id": 10,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20Z%20Flipe%205G",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20Z%20Flipe%205G",
+          "altText": "Samsung Galaxy Z Flipe 5G"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20first%20angle",
+          "altText": "Samsung Galaxy Z Flipe 5G first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20second%20angle",
+          "altText": "Samsung Galaxy Z Flipe 5G second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Samsung%20Galaxy%20Z%20Flipe%205G%20third%20angle",
+          "altText": "Samsung Galaxy Z Flipe 5G third angle"
+        }
+      ],
+    "productName": "Samsung Galaxy Z Flipe 5G",
+    "productDescription": "The Samsung Galaxy Z Flip is an Android-based foldable smartphone developed by Samsung Electronics as part of the Samsung Galaxy Z series.",
+    "price": 88450,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "SmartPhones"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 10,
+    "added": "10/2/2021",
+    "quantity": 45,
+    "bestSellerRanking": 11,
+    "featured": true
+  },
+  {
+    "id": 11,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Ideapad%20Slim%205i",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Ideapad%20Slim%205i",
+          "altText": "Ideapad Slim 5i"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Ideapad%20Slim%205i%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Ideapad%20Slim%205i%20first%20angle",
+          "altText": "Ideapad Slim 5i first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Ideapad%20Slim%205i%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Ideapad%20Slim%205i%20second%20angle",
+          "altText": "Ideapad Slim 5i second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Ideapad%20Slim%205i%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Ideapad%20Slim%205i%20third%20angle",
+          "altText": "Ideapad Slim 5i third angle"
+        }
+      ],
+    "productName": "Ideapad Slim 5i",
+    "productDescription": "IdeaPad is a line of consumer-oriented laptop computers designed, developed and marketed by Lenovo.",
+    "price": 66799,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 102,
+                    "name": "Laptop"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 15,
+    "added": "10/3/2021",
+    "quantity": 50,
+    "bestSellerRanking": 15,
+    "featured": false
+  },
+  {
+    "id": 12,
+    "imageURLs": [
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Asus%20chromebook%2015",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Asus%20chromebook%2015",
+          "altText": "Asus chromebook 15"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Asus%20chromebook%2015%20first%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Asus%20chromebook%2015%20first%20angle",
+          "altText": "Asus chromebook 15 first angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Asus%20chromebook%2015%20second%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Asus%20chromebook%2015%20second%20angle",
+          "altText": "Asus chromebook 15 second angle"
+        },
+        {
+          "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Asus%20chromebook%2015%20third%20angle",
+          "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Asus%20chromebook%2015%20third%20angle",
+          "altText": "Asus chromebook 15 third angle"
+        }
+      ],
+    "productName": "Asus Vivobook 15 Core13",
+    "productDescription": "The Asus VivoBook E Series is the successor to the EeeBook and Eee PC lineup of computers.",
+    "price": 55620,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 102,
+                    "name": "Laptop"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 20,
+    "added": "2/5/2021",
+    "quantity": 30,
+    "bestSellerRanking": 16,
+    "featured": false
+  }
   ],
   "orders": [
     {
