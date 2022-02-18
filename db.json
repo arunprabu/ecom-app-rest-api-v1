@@ -111,8 +111,8 @@
     {
       "id": 7,
       "imageUrl": "./assets/images/appleIpad.webp",
-      "productName": "Apple iPad Pro",
-      "productDescription": "The iPad Mini (branded and marketed as iPad mini) is a line of mini tablet computers designed, developed, and marketed by Apple Inc. It is a sub-series of the iPad line of tablets, with screen sizes of 7.9 inches and 8.3 inches.",
+      "productName": "Apple iPad Pro ",
+      "productDescription": "The iPad pro (branded and marketed as iPad mini) is a line of mini tablet computers designed, developed, and marketed by Apple Inc. It is a sub-series of the iPad line of tablets, with screen sizes of 7.9 inches and 8.3 inches.",
       "price": 107900,
       "categoryId": 3,
       "discountApplicable": 27,
@@ -181,7 +181,7 @@
     {
       "id": 12,
       "imageUrl": " ./assets/images/AsusVivoBook15",
-      "productName": "Asus VivoBook 15 Core13",
+      "productName": "Asus chromebook 15 Core13",
       "productDescription": "The Asus VivoBook E Series is the successor to the EeeBook and Eee PC lineup of computers.",
       "price": 55620,
       "categoryId": 2,
