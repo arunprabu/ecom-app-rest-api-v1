@@ -34,24 +34,51 @@
       "bestSellerRanking": 2,
       "featured": true
     },
-    {
-      "id": 2,
-      "imageUrl": "https://via.placeholder.com/600/65ac19",
-      "thumbnails": [
-        "https://via.placeholder.com/150/65ac19", 
-        "https://via.placeholder.com/150/a9ef52",
-        "https://via.placeholder.com/150/7644fe"
-      ],
-      "productName": "Samsung Galaxys S21 FE 5G",
-      "productDescription": "Samsung Galaxy S21 5G supports frequency bands GSM , CDMA , HSPA , EVDO , LTE , 5G. Official\n      announcement date is January 14 2021.",
-      "price": 54600,
-      "categoryId": 1,
-      "discountApplicable": 10,
-      "added": "9/2/2021",
-      "quantity": 20,
-      "bestSellerRanking": 4,
-      "featured": true
-    },
+      {
+    "id": 1,
+    "imageURLs": [
+      {
+        "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Iphone%2013%20pro%0A",
+        "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%0A",
+        "altText": "Apple Iphone 13 Pro"
+      },
+      {
+        "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Iphone%2013%20pro%20first%20angle%0A%0A",
+        "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%20first%20angle%0A%0A",
+        "altText": "Apple Iphone 13 Pro first angle"
+      },
+      {
+        "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Iphone%2013%20pro%20second%0A%20angle%0A%0A",
+        "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%20second%0A%20angle%0A%0A",
+        "altText": "Apple Iphone 13 Pro second angle"
+      },
+      {
+        "url": "http://placehold.jp/3d4070/ffffff/600x600.png?text=Apple%20Iphone%2013%20pro%20third%0A%20angle%0A%0A",
+        "thumbnail": "http://placehold.jp/3d4070/ffffff/150x150.png?text=Apple%20Iphone%2013%20pro%20third%0A%20angle%0A%0A",
+        "altText": "Apple Iphone 13 Pro third angle"
+      }
+    ],
+    "productName": "Apple-iPhone-13-pro-smartphone",
+    "productDescription": "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel.\n      Cinematic mode adds shallow depth of field and shifts focus automatically in your videos.",
+    "price": 84900,
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": 101,
+                    "name": "SmartPhones"
+                }
+            ]
+        }
+    ],
+    "discountApplicable": 14,
+    "added": "4/9/2021",
+    "quantity": 30,
+    "bestSellerRanking": 2,
+    "featured": true
+  },
     {
       "id": 3,
       "imageUrl": "./assets/images/realme.webp",
