@@ -551,6 +551,8 @@
       "products": [4, 12]
     }
   ],
+  "shoppingOrders": [
+  ],
   "cartItems": [
     {
       "id": 1,
