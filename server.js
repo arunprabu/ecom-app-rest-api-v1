@@ -4,13 +4,15 @@ const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 4000; // needed when you deploy into heroku.
 
+server.use(jsonServer.bodyParser);
+
 server.use(middlewares)
 server.use(router);
-router.render = (req, res) => {
-  res.jsonp({
-    body: res.locals.data
-  })
-}
+// router.render = (req, res) => {
+//   res.jsonp({
+//     body: res.locals.data
+//   })
+// }
 
 server.listen(port, () => {
   console.log('JSON Server is running')
