@@ -546,22 +546,6 @@
   "shoppingOrders": [
   ],
   "cartItems": [
-    {
-      "id": 1,
-      "productId": 123,
-      "productName": "Apple MacBook Pro 14 M1",
-      "quantity": 1,
-      "price": 123233,
-      "thumbnail": ""
-    },
-    {
-      "id": 2,
-      "productId": 76,
-      "productName": "Samsung",
-      "quantity": 2,
-      "price": 2232,
-      "thumbnail": ""
-    }
   ],
   "categories": [
     {
